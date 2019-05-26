@@ -1,4 +1,4 @@
-function setUser(person)
+function setUser(user, person)
 {
     this.user = person;
 }
